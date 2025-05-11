@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://your-banner-image-url.com/banner.jpg" alt="Banner" style="width:100%; border-radius: 10px;" />
-
 <h1 align="center">Hi 👋, I'm Nabarup Roy</h1>
 <h3 align="center">Fullstack Developer | AI Enthusiast | B.Tech CSE Student from Kolkata</h3>
 
