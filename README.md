@@ -41,10 +41,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabarupRoy&show_icons=true&theme=github_dark" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabarupRoy&theme=github-dark" alt="streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabarupRoy&layout=compact&theme=github_dark" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NabarupDev&show_icons=true&theme=github_dark" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabarupDev&theme=github-dark" alt="streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabarupDev&layout=compact&theme=github_dark" alt="languages" />
 </p>
+
 
 ---
 
