@@ -56,5 +56,5 @@ I'm a Computer Science and Engineering student from Kolkata, West Bengal, India 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
