@@ -51,6 +51,7 @@ I'm a Computer Science and Engineering student from Kolkata, West Bengal, India 
   <img src="https://github-readme-stats.vercel.app/api?username=NabarupDev&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabarupDev&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabarupDev&layout=compact&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabarupDev&theme=tokyo-night"/>
 </div>
 
 ---
