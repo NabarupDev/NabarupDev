@@ -6,36 +6,53 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student from Kolkata, West Bengal, India with a passion for Full Stack Development and Artificial Intelligence. Currently exploring new technologies and seeking opportunities to apply my skills in real-world projects.
+Hi, I’m **Nabarup Roy** from *Kolkata, West Bengal*.  
+I’m a **Computer Science and Engineering student** with a strong passion for **Full Stack Development** and **Artificial Intelligence**.  
+I love learning new technologies and building projects that solve real-world problems.  
 
-- 🔭 Working on honing my **Full Stack Development** skills
-- 🌱 Currently learning more about **AI & Automation**
-- 👯 Looking to collaborate on innovative projects
-- 💼 Open to **Internships**, **Freelancing**, and **Collaboration** opportunities
+- 🔭 Working on honing my **Full Stack Development** skills  
+- 🌱 Currently learning more about **AI & Automation**  
+- 👯 Looking to collaborate on innovative projects  
+- 💼 Open to **Internships**, **Freelancing**, and **Collaboration** opportunities  
+- 🌐 Portfolio: [nabaruproy.me](http://nabaruproy.me/)  
 - 📫 Reach me at: **nabaruproy.dev@gmail.com**
 
 ## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
+
+## 💡 Skills
+
+- **Languages**: Java, Python, JavaScript, TypeScript  
+- **Frontend**: React.js, Next.js, HTML5, CSS3  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Databases**: MySQL, MongoDB, Firebase  
+- **Tools & Platforms**: Git, GitHub, Docker  
 
 ## 🎓 Education & Certifications
 
-- 🎓 B.Tech in Computer Science and Engineering
-- 📜 **Google Certifications**:
-  - Prompt Design in Vertex AI
-  - Associate Cloud Engineer App Dev
-  - Introduction to Generative AI
-- 📜 **Intel Certification**:
-  - AI for Future Workforce Program
+- 🎓 B.Tech in Computer Science and Engineering  
+- 📜 **Google Certifications**:  
+  - Prompt Design in Vertex AI  
+  - Associate Cloud Engineer App Dev  
+  - Introduction to Generative AI  
+- 📜 **Intel Certification**:  
+  - AI for Future Workforce Program  
 
 ## 🔗 Connect With Me
 
@@ -58,4 +75,4 @@ I'm a Computer Science and Engineering student from Kolkata, West Bengal, India 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=blueviolet" alt="Profile views" />
-</div>
+</div> 
