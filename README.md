@@ -45,4 +45,9 @@ Email: nabaruproy.dev@gmail.com
 
 ┌──(nabarup@github)-[~]
 └─$ echo "Profile views:"
-![Profile views](https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=blueviolet)
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
+
