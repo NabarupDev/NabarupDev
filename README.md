@@ -51,4 +51,7 @@ Email: nabaruproy.dev@gmail.com
   <img src="https://komarev.com/ghpvc/?username=NabarupDev&style=flat-square&color=00ff00" alt="Profile views" />
 </div>
 
-
+```bash
+┌──(nabarup@github)-[~]
+└─$ exit
+```
