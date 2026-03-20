@@ -6,17 +6,17 @@ Nabarup Roy
 ┌──(nabarup@github)-[~]
 └─$ cat about.txt
 Location: Kolkata, West Bengal  
-Role: Computer Science and Engineering student  
-Interests: Full Stack Development, Artificial Intelligence, Automation  
+Role: Backend Developer
+Interests: Full Stack Development, Artificial Intelligence  
 Focus: Building projects that solve real-world problems and continuously learning new technologies.
 
 ┌──(nabarup@github)-[~]
 └─$ cat current_work.txt
 - Improving skills in Full Stack Development
-- Learning AI and automation
+- Learning AI
 - Open to internships, freelancing, and collaboration
 
-Portfolio: http://nabaruproy.me/  
+Portfolio: http://nabaruproy.site/  
 Contact: nabaruproy.dev@gmail.com
 
 ┌──(nabarup@github)-[~]
@@ -24,7 +24,7 @@ Contact: nabaruproy.dev@gmail.com
 Languages: Java, Python, JavaScript, TypeScript  
 Frontend: React.js, Next.js, HTML5, CSS3  
 Backend: Node.js, Express.js, REST APIs  
-Databases: MySQL, MongoDB, Firebase  
+Databases: MySQL, Postgress, MongoDB, Firebase  
 Tools: Git, GitHub, Docker
 
 ┌──(nabarup@github)-[~]
