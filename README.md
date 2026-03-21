@@ -40,7 +40,7 @@ Intel:
 ┌──(nabarup@github)-[~]
 └─$ ping -c 3 socials
 LinkedIn: https://www.linkedin.com/in/nabarup-roy/  
-Portfolio: http://nabaruproy.me/  
+Portfolio: http://nabaruproy.site/  
 Email: nabaruproy.dev@gmail.com
 
 ┌──(nabarup@github)-[~]
